@@ -1,0 +1,7 @@
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\bin\Debug\Coche_2.1_2430744.exe.config
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\bin\Debug\Coche_2.1_2430744.exe
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\bin\Debug\Coche_2.1_2430744.pdb
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\obj\Debug\Coche_2.1_2430744.csproj.AssemblyReference.cache
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\obj\Debug\Coche_2.1_2430744.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\obj\Debug\Coche_2.1_2430744.exe
+C:\Users\pjonn\source\repos\Coche_2.1_2430744\obj\Debug\Coche_2.1_2430744.pdb
