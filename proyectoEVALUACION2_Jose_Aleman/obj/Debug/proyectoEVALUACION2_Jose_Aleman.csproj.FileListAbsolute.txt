@@ -1,0 +1,10 @@
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\bin\Debug\proyectoEVALUACION2_Jose_Aleman.exe.config
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\bin\Debug\proyectoEVALUACION2_Jose_Aleman.exe
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\bin\Debug\proyectoEVALUACION2_Jose_Aleman.pdb
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.csproj.AssemblyReference.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.Form1.resources
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.Properties.Resources.resources
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.csproj.GenerateResource.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.exe
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUACION2_Jose_Aleman\obj\Debug\proyectoEVALUACION2_Jose_Aleman.pdb
