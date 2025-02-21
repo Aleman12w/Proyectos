@@ -1,0 +1,10 @@
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.csproj.AssemblyReference.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.Form1.resources
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.Properties.Resources.resources
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.csproj.GenerateResource.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\bin\Debug\proyectoEVALUCACION1_Antonio_Aleman.exe.config
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\bin\Debug\proyectoEVALUCACION1_Antonio_Aleman.exe
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\bin\Debug\proyectoEVALUCACION1_Antonio_Aleman.pdb
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.exe
+C:\Users\pjonn\OneDrive\Documents\Console\proyectoEVALUCACION1_Antonio_Aleman\obj\Debug\proyectoEVALUCACION1_Antonio_Aleman.pdb
